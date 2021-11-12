@@ -1,5 +1,4 @@
 def maior_primo(n): 
-	g = 2
 	def ePrimo(k):	
 			x = 2
 			if k == 2:
